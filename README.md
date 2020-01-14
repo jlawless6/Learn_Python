@@ -1,4 +1,4 @@
-# Git and bach Cheatsheet
+# Git and bash Cheatsheet
 
 ## bash
 ls<br>
