@@ -21,3 +21,7 @@ git branch (branch name) - creates new branch<br>
 git branch -a -shows branches of repository<br>
 git branch -d (branch name) - deletes branch<br>
 git merge (branch name) - run from master to merge a branch into master<br>
+git push (url) master - pushes local to remote as master<br>
+git remote add origin (url) - gives the url an alias of 'origin'<br>
+git pull origin master - gets any changes from github, pulls down to local<br>
+git push origin (branch name) - pushes up branch to github<br>
